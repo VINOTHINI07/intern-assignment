@@ -1,1 +1,1 @@
-python# intern-assignment
+# intern-assignment
